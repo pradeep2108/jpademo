@@ -50,4 +50,8 @@ public class BookDetailsDaoImpl {
         em.remove(bd);
     }
 
+    public void deleteOneBook(BookDetails bd, CompositePK id) {
+
+    }
+
 }
