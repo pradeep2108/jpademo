@@ -54,4 +54,8 @@ public class BookDetailsDaoImpl {
 
     }
 
+    public void deleteTwoBook(BookDetails bd, CompositePK id) {
+
+    }
+
 }
